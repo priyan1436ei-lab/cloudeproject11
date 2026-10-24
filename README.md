@@ -13,10 +13,10 @@
 <!-- ║        🌌 CINEMATIC BANNER — TOKYO NIGHT MINIMALIST DARK 🌌        ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:16161e,40:1a1b26,75:1e2030,100:24283b&text=PRIYAN%20A&fontColor=7aa2f7&fontSize=80&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20%26%20Deep%20Learning%20%E2%80%A2%20Gamer&descSize=18&descAlignY=58&descColor=c0caf5&animation=twinkling&stroke=bb9af7&strokeWidth=1.5"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:16161e,35:1a1b26,70:1e2030,100:24283b&text=PRIYAN%20A&fontColor=7aa2f7&fontSize=76&fontAlignY=38&desc=⚡%20Full-Stack%20Engineer%20%7C%20AI%20%26%20Deep%20Learning%20%7C%20Open-Source%20Builder%20⚡&descSize=18&descAlignY=58&descColor=c0caf5&animation=twinkling&stroke=bb9af7&strokeWidth=1.5"/>
 
-<!-- ═══════════════ SLEEK TOKYO NIGHT DIVIDER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:16161e,25:7aa2f7,50:bb9af7,75:7dcfff,100:16161e"/>
+<!-- ═══════════════ ANIMATED GRADIENT WAVE DIVIDER ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:16161e,20:7aa2f7,50:bb9af7,80:7dcfff,100:16161e"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    ⌨️ ANIMATED TYPING TERMINAL ⌨️                   ║ -->
@@ -24,23 +24,34 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=130&lines=%E2%97%86+SYSTEM+ONLINE+%E2%80%94+TOKYO+NIGHT+WORKSTATION+%E2%97%86;%3E+priyan%40ai-core%3A~%24+Crafting+intelligent+code+%26+neural+models;%3E+Focus%3A+Machine+Learning+%E2%80%A2+Full-Stack+Architectures+%E2%80%A2+Open+Source;%3E+Always+building.+Always+learning.+Leveling+up.+%E2%9C%A8" alt="Typing SVG" /></a>
+<!-- ANIMATED WAVING HAND & WELCOME -->
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="38" alt="Waving Hand"/>
+&nbsp;
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=800&color=7AA2F7&center=false&vCenter=true&repeat=true&width=360&height=40&lines=HELLO%2C+WORLD!+%F0%9F%91%8B;WELCOME+TO+MY+UNIVERSE;CODE.+INNOVATE.+DOMINATE." alt="Welcome"/></a>
 
 <br>
 
-<!-- AESTHETIC MINIMALIST GIFS -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Tokyo Night Coding" style="border-radius:12px;"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=130&lines=%E2%97%86+SYSTEM+ONLINE+%E2%80%94+TOKYO+NIGHT+WORKSTATION+%E2%97%86;%3E+priyan%40ai-core%3A~%24+Engineering+autonomous+AI+agents+%26+neural+systems;%3E+Core+Stack%3A+Python+%E2%80%A2+PyTorch+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+FastAPI;%3E+Building+tomorrow%27s+software+today.+%E2%9C%A8" alt="Typing SVG" /></a>
+
+<br>
+
+<!-- AESTHETIC DEVELOPER ARTWORK -->
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80" alt="Pixel Dev"/>
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Tokyo Night Coding Desk" style="border-radius:14px;"/>
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80" alt="Pixel Dev"/>
 
 <br><br>
 
-<!-- AESTHETIC TOKYO NIGHT STATUS BADGES -->
-<a href="#"><img src="https://img.shields.io/badge/STATUS-ONLINE%20%26%20BUILDING-7aa2f7?style=for-the-badge&logo=statuspage&logoColor=c0caf5&labelColor=16161e" /></a>
+<!-- AESTHETIC STATUS BADGES -->
+<a href="#"><img src="https://img.shields.io/badge/STATUS-ONLINE%20%26%20SHIPPING-7aa2f7?style=for-the-badge&logo=statuspage&logoColor=c0caf5&labelColor=16161e" /></a>
 &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/FOCUS-AI%20%26%20NEURAL%20NETS-bb9af7?style=for-the-badge&logo=openai&logoColor=c0caf5&labelColor=16161e" /></a>
+<a href="#"><img src="https://img.shields.io/badge/FOCUS-AI%20%26%20DEEP%20LEARNING-bb9af7?style=for-the-badge&logo=openai&logoColor=c0caf5&labelColor=16161e" /></a>
 &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/ROLE-FULL--STACK%20DEV-7dcfff?style=for-the-badge&logo=terminal&logoColor=c0caf5&labelColor=16161e" /></a>
+<a href="#"><img src="https://img.shields.io/badge/CLASS-FULL--STACK%20ARCHITECT-7dcfff?style=for-the-badge&logo=visualstudiocode&logoColor=c0caf5&labelColor=16161e" /></a>
 &nbsp;
-<a href="#"><img src="https://img.shields.io/badge/XP-LEVEL%2099-ff9e64?style=for-the-badge&logo=gameloft&logoColor=c0caf5&labelColor=16161e" /></a>
+<a href="#"><img src="https://img.shields.io/badge/XP-LEVEL%2099%20%E2%88%9E-ff9e64?style=for-the-badge&logo=gameloft&logoColor=c0caf5&labelColor=16161e" /></a>
 
 <br><br>
 
@@ -53,7 +64,7 @@
 
 </div>
 
-<!-- ═══════════════ SLEEK TOKYO NIGHT DIVIDER ═══════════════ -->
+<!-- ═══════════════ ANIMATED GRADIENT WAVE DIVIDER ═══════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:16161e,25:bb9af7,50:7aa2f7,75:7dcfff,100:16161e"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
@@ -62,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%E2%96%90%E2%96%90+DEVELOPER+IDENTITY+%E2%96%90%E2%96%90" alt="Developer Identity"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%E2%96%90%E2%96%90+DEVELOPER+IDENTITY+%E2%96%90%E2%96%90" alt="Developer Identity"/>
 
 </div>
 
@@ -85,28 +96,25 @@
 </div>
 
 ```js
-// ⚡ TOKYO NIGHT ENVIRONMENT CONFIG
+// ⚡ TOKYO NIGHT SYSTEM INITIALIZER
 const priyan = {
-  handle: "@priyan1436ei-lab",
-  title:  "Full-Stack Developer & AI Enthusiast",
-  domain: "Artificial Intelligence & Web Systems",
+  handle:   "@priyan1436ei-lab",
+  title:    "Full-Stack Developer & AI Engineer",
   location: "India 🇮🇳",
+  uptime:   "24/7/365 Non-stop",
   
-  stack: {
-    core:       ["Python", "JavaScript", "Java", "TypeScript"],
-    systems:    ["C++", "Rust"],
-    frontend:   ["React", "Next.js", "TailwindCSS"],
-    ai_ml:      ["PyTorch", "TensorFlow", "Scikit-Learn"],
-    data:       ["PostgreSQL", "MongoDB", "Redis"]
+  domains: {
+    intelligence: ["Deep Learning", "Neural Networks", "LLM Agents"],
+    development:  ["Modern Web Apps", "High-Performance APIs"],
+    systems:      ["Containerization", "Cloud Deployments"]
   },
 
-  philosophy: [
-    "Clean architecture over complexity",
-    "Continuous learning through hands-on builds",
-    "Shipping real value with modern AI"
+  weaponsOfChoice: [
+    "Python 🐍", "JavaScript / TS ⚡", 
+    "PyTorch 🔥", "React / Next.js ⚛️"
   ],
 
-  currentFocus: "Autonomous AI Agents & Deep Neural Networks 🚀"
+  motto: "Turn coffee into production-ready intelligence ☕"
 };
 ```
 
@@ -123,20 +131,20 @@ const priyan = {
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=7DCFFF&center=true&vCenter=true&repeat=true&width=400&height=28&lines=%E2%97%86+Verified+Milestones;%E2%97%86+Active+Repository+Builder" alt="Milestones"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=7DCFFF&center=true&vCenter=true&repeat=true&width=400&height=28&lines=%E2%97%86+Active+OSS+Contributor;%E2%97%86+Continuous+Streak+Master" alt="Milestones"/>
 
 </div>
 
 ```
 ┌──────────────────────────────────────────┐
-│  🎯 QUEST PROGRESSION TRACKER            │
+│  🎯 ACTIVE QUEST PROGRESSION             │
 ├──────────────────────────────────────────┤
-│  ✔  Neural Network From Scratch  [DONE]  │
-│  ✔  CodeForge AI Autonomous Core [DONE]  │
-│  ✔  60-Day Dedicated Dev Grind   [DONE]  │
-│  ✔  Android APK Architecture     [DONE]  │
-│  ✔  AI Agent Custom Datasets     [DONE]  │
-│  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱ 92% Complete      │
+│  ✔  Neural Network From Scratch  [100%]  │
+│  ✔  CodeForge AI Autonomous Core [100%]  │
+│  ✔  60-Day Dedicated Dev Grind   [100%]  │
+│  ✔  Android APK Architecture     [100%]  │
+│  ✔  AI Agent Custom Datasets     [100%]  │
+│  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱ 95% Completed     │
 └──────────────────────────────────────────┘
 ```
 
@@ -151,7 +159,7 @@ const priyan = {
 </tr>
 </table>
 
-<!-- ═══════════════ SLEEK TOKYO NIGHT DIVIDER ═══════════════ -->
+<!-- ═══════════════ ANIMATED GRADIENT WAVE DIVIDER ═══════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:16161e,25:7aa2f7,50:bb9af7,75:7dcfff,100:16161e"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
@@ -160,7 +168,7 @@ const priyan = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%E2%96%90%E2%96%90+DEVELOPER+ANALYTICS+%E2%96%90%E2%96%90" alt="Analytics"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%E2%96%90%E2%96%90+DEVELOPER+ANALYTICS+%E2%96%90%E2%96%90" alt="Analytics"/>
 
 <br><br>
 
@@ -188,7 +196,7 @@ const priyan = {
 
 </div>
 
-<!-- ═══════════════ SLEEK TOKYO NIGHT DIVIDER ═══════════════ -->
+<!-- ═══════════════ ANIMATED GRADIENT WAVE DIVIDER ═══════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:16161e,25:bb9af7,50:7aa2f7,75:7dcfff,100:16161e"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
@@ -197,7 +205,7 @@ const priyan = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%E2%96%90%E2%96%90+CONTRIBUTION+LANDSCAPE+%E2%96%90%E2%96%90" alt="Contribution Graph"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%E2%96%90%E2%96%90+CONTRIBUTION+LANDSCAPE+%E2%96%90%E2%96%90" alt="Contribution Graph"/>
 
 <br><br>
 
@@ -208,7 +216,7 @@ const priyan = {
 
 <br><br>
 
-<!-- PROFILE SUMMARY CARDS (CLEAN DARK) -->
+<!-- PROFILE SUMMARY CARDS (TOKYO NIGHT) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyan1436ei-lab&theme=tokyonight" width="92%" alt="Profile Details"/>
 
 <br>
@@ -221,7 +229,7 @@ const priyan = {
 
 </div>
 
-<!-- ═══════════════ SLEEK TOKYO NIGHT DIVIDER ═══════════════ -->
+<!-- ═══════════════ ANIMATED GRADIENT WAVE DIVIDER ═══════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:16161e,25:7aa2f7,50:bb9af7,75:7dcfff,100:16161e"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
@@ -230,7 +238,7 @@ const priyan = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%E2%96%90%E2%96%90+TECHNICAL+STACK+%E2%96%90%E2%96%90" alt="Tech Stack"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%E2%96%90%E2%96%90+TECHNICAL+STACK+%E2%96%90%E2%96%90" alt="Tech Stack"/>
 
 <br><br>
 
@@ -275,8 +283,39 @@ const priyan = {
 
 </div>
 
-<!-- ═══════════════ SLEEK TOKYO NIGHT DIVIDER ═══════════════ -->
+<!-- ═══════════════ ANIMATED GRADIENT WAVE DIVIDER ═══════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:16161e,25:bb9af7,50:7aa2f7,75:7dcfff,100:16161e"/>
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║             💻 LIVE INTERACTIVE TERMINAL EMULATOR 💻                 ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%E2%96%90%E2%96%90+LIVE+TERMINAL+FEED+%E2%96%90%E2%96%90" alt="Terminal Feed"/>
+
+<br><br>
+
+<table align="center" width="85%" style="border-collapse: collapse; background-color: #16161e; border: 1px solid #24283b; border-radius: 12px; overflow: hidden;">
+<tr>
+<td style="background-color: #1a1b26; padding: 10px 16px; border-bottom: 1px solid #24283b;">
+  <span style="color: #f7768e; font-size: 16px;">●</span>&nbsp;
+  <span style="color: #e0af68; font-size: 16px;">●</span>&nbsp;
+  <span style="color: #9ece6a; font-size: 16px;">●</span>&nbsp;&nbsp;
+  <code style="color: #7aa2f7; font-family: 'Fira Code', monospace; font-size: 13px;">bash - priyan@ai-station:~</code>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2400&pause=700&color=7AA2F7&center=false&vCenter=true&multiline=true&repeat=true&width=750&height=180&lines=%24+whoami;priyan1436ei-lab+%E2%80%94+Full-Stack+Architect+%26+AI+Researcher;%24+python3+-c+%22import+torch%3B+print(f'CUDA+Ready%3A+%7Btorch.cuda.is_available()%7D')%22;CUDA+Ready%3A+True+%E2%9C%93+%5BDevice%3A+High-Performance+Neural+Core%5D;%24+git+status;On+branch+main.+All+systems+operational.+Nothing+to+commit%2C+working+tree+clean.;%24+.%2Fship_code.sh+--fast;%E2%9C%93+Build+completed.+Deployed+to+production+successfully!+%F0%9F%9A%80" alt="Interactive Shell"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- ═══════════════ ANIMATED GRADIENT WAVE DIVIDER ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:16161e,25:7aa2f7,50:bb9af7,75:7dcfff,100:16161e"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║             🚀 HIGHLIGHTED PROJECTS & REPOSITORIES 🚀                 ║ -->
@@ -284,7 +323,7 @@ const priyan = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%E2%96%90%E2%96%90+FEATURED+PROJECTS+%E2%96%90%E2%96%90" alt="Featured Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%E2%96%90%E2%96%90+FEATURED+PROJECTS+%E2%96%90%E2%96%90" alt="Featured Projects"/>
 
 <br><br>
 
@@ -391,7 +430,7 @@ const priyan = {
 
 </div>
 
-<!-- ═══════════════ SLEEK TOKYO NIGHT DIVIDER ═══════════════ -->
+<!-- ═══════════════ ANIMATED GRADIENT WAVE DIVIDER ═══════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:16161e,25:7aa2f7,50:bb9af7,75:7dcfff,100:16161e"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
@@ -400,7 +439,7 @@ const priyan = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%E2%96%90%E2%96%90+CONNECT+WITH+ME+%E2%96%90%E2%96%90" alt="Connect With Me"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%E2%96%90%E2%96%90+CONNECT+WITH+ME+%E2%96%90%E2%96%90" alt="Connect With Me"/>
 
 <br><br>
 
@@ -436,7 +475,7 @@ const priyan = {
 
 </div>
 
-<!-- ═══════════════ SLEEK TOKYO NIGHT DIVIDER ═══════════════ -->
+<!-- ═══════════════ ANIMATED GRADIENT WAVE DIVIDER ═══════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:16161e,25:bb9af7,50:7aa2f7,75:7dcfff,100:16161e"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
@@ -453,12 +492,12 @@ const priyan = {
 <br><br>
 
 <!-- FAREWELL TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=800&height=40&lines=THANKS+FOR+STOPPING+BY+%E2%80%A2+KEEP+BUILDING" alt="Farewell"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=800&height=40&lines=THANKS+FOR+STOPPING+BY+%E2%80%A2+KEEP+BUILDING" alt="Farewell"/>
 
 <br>
 
 <!-- WAVING FOOTER BANNER (TOKYO NIGHT) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:16161e,40:1a1b26,75:1e2030,100:24283b&section=footer&text=DESIGNED%20WITH%20PRECISION&fontColor=7aa2f7&fontSize=24&fontAlignY=72&animation=twinkling&stroke=bb9af7&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:16161e,35:1a1b26,70:1e2030,100:24283b&section=footer&text=DESIGNED%20WITH%20PRECISION&fontColor=7aa2f7&fontSize=24&fontAlignY=72&animation=twinkling&stroke=bb9af7&strokeWidth=1"/>
 
 <br>
 
